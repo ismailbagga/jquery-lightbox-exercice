@@ -1,0 +1,46 @@
+h1{
+    color: blue;
+    text-align: center;
+    margin: 50px;
+    padding: 60px;
+    background-color: lightgoldenrodyellow;
+}
+
+p{
+    border: 1px solid black;
+    margin: 50px;
+    border-radius: 12px;
+    padding: 11px;
+    background-color: lightblue;
+}
+
+img{
+    width: 200px;
+    padding: 22px;
+}
+
+article{
+    padding: 15px;
+    background-color: lightsteelblue;
+    margin: 50px;
+}
+#postblog{
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+width: 100vw;
+height: 100vh;
+background-color: rgba(0,0,0,0.9);
+ padding: 3px;
+}
+
+button ,.hidePost{
+    background-color: goldenrod;
+    color: cadetblue;
+    padding: 6px;
+    border-radius: 3px;
+    box-shadow: rgba(black, rgb(188, 201, 188), rgb(221, 221, 235), 0.5);
+    border: none;
+    cursor: pointer;
+}
